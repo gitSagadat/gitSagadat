@@ -1,4 +1,4 @@
-![Purple Illustrated Game Streaming Twitch Banner](https://user-images.githubusercontent.com/112682714/191420018-15535ec0-24ee-43cf-bd2b-4606c320a060.gif)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
