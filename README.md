@@ -2,7 +2,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sagadat-kuandykov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagadat-kuandykov" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sgkuandykov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagadat-kuandykov" height="30" width="40" /></a>
 <a href="https://fb.com/quan.sagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="quan.sagi" height="30" width="40" /></a>
 <a href="https://instagram.com/sagi.quan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@sagi.quan" height="30" width="40" /></a>
 <a href="https://discord.gg/JkxzensY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JkxzensY" height="30" width="40" /></a>
